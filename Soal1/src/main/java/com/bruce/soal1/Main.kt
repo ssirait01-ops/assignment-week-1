@@ -33,7 +33,7 @@ fun main() {
         val choice = readLine()?.toIntOrNull()
 
         if (choice == null) {
-            println("Input tidak valid. Masukkan angka 1-7.\n")
+            println("Input tidak valid. Masukkan angka 1-7\n")
             continue
         }
 
